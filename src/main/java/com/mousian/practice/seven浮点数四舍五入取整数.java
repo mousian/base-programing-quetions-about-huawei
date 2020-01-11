@@ -1,6 +1,5 @@
-package com.mousian.test;
+package com.mousian.practice;
 
-import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class seven浮点数四舍五入取整数 {

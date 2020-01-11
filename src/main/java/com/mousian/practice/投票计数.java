@@ -1,6 +1,5 @@
-package com.mousian.test;
+package com.mousian.practice;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;

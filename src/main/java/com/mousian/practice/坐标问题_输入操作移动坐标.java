@@ -1,6 +1,5 @@
-package com.mousian.test;
+package com.mousian.practice;
 
-import java.text.NumberFormat;
 import java.util.*;
 
 public class 坐标问题_输入操作移动坐标 {

@@ -1,4 +1,4 @@
-package com.mousian.test;
+package com.mousian.practice;
 
 import java.util.*;
 
